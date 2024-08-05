@@ -1,4 +1,4 @@
-# Madhu Jammm's GitHub Profile
+
 
 Welcome to my GitHub profile! Here you can see my GitHub stats and the top languages I use.
 
